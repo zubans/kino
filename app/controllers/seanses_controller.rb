@@ -1,0 +1,2 @@
+class SeansesController < ApplicationController
+end
